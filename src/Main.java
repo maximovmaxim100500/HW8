@@ -67,6 +67,6 @@ public class Main {
                 array1[i]++;
             }
         }
-        System.out.println(Arrays.toString(array1));
+        System.out.println(Arrays.toString(array1)); //
     }
 }
